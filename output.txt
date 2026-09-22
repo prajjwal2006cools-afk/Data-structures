@@ -1,0 +1,14 @@
+Enter the infix expression: A+B*C
+Postfix expression: ABC*+
+
+Enter the infix expression: (A+B)*C
+Postfix expression: AB+C*
+
+Enter the infix expression:  A*(B+C)-D
+Postfix expression: ABC+*D-
+
+Enter the infix expression: (A+B)*(C-D)
+Postfix expression: AB+CD-*
+
+Enter the infix expression: A+B*C^D-E
+Postfix expression: ABCD^*+E-
